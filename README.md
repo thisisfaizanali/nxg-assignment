@@ -10,7 +10,7 @@ Manage your personal library with a sleek UI, powerful CRUD operations, search &
 
 <br />
 
-[🚀 Live Demo](YOUR_VERCEL_LINK_HERE) • [💻 GitHub Repository](https://github.com/thisisfaizanali/nxg-assignment)
+[🚀 Live Demo](https://nxg-assignment.vercel.app/) • [💻 GitHub Repository](https://github.com/thisisfaizanali/nxg-assignment)
 
 </div>
 
