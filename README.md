@@ -222,26 +222,6 @@ DELETE /api/books/:id
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard
-
-> Add your application screenshots here
-
----
-
-# 🔮 Future Improvements
-
-- 🔐 Authentication & Authorization
-- 🌙 Dark / Light Theme
-- 📚 Pagination & Sorting
-- 🖼️ Book Cover Upload
-- ⭐ Favorites & Ratings
-- 🧠 Advanced Filtering
-- ☁️ Cloud Storage Integration
-
----
-
 # 📦 Production Build
 
 ```bash
